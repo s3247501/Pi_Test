@@ -101,7 +101,7 @@ int main (void)
         	{' ','X',' '}
     	};
 	
-    	num_1 = hasWinner(board_1);
+	num_1 = hasWinner(board_1);
 	if(num_1 == 1)
 		printf("Test case 1 : passed\n");
 	else
